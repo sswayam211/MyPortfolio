@@ -1,29 +1,36 @@
 {
   "files": {
-    "main.css": "/MyPortfolio/static/css/main.11742ad8.css",
-    "main.js": "/MyPortfolio/static/js/main.f9d05c59.js",
-    "static/js/453.13adc2c8.chunk.js": "/MyPortfolio/static/js/453.13adc2c8.chunk.js",
-    "static/media/stba-1.png": "/MyPortfolio/static/media/stba-1.0de714ae0a743458da88.png",
-    "static/media/ss-hos1.png": "/MyPortfolio/static/media/ss-hos1.6ad988436c964ebcb8de.png",
-    "static/media/todo-1.png": "/MyPortfolio/static/media/todo-1.780f7a1bb5f828f8dfd7.png",
-    "static/media/ss-fin1.png": "/MyPortfolio/static/media/ss-fin1.52e0e3dcb7faeeb21012.png",
-    "static/media/my1.jpg": "/MyPortfolio/static/media/my1.8dcd700aaa67c4168ebf.jpg",
+    "main.css": "/MyPortfolio/static/css/main.40f8f653.css",
+    "main.js": "/MyPortfolio/static/js/main.ff0d5fad.js",
+    "static/js/453.0352e4fa.chunk.js": "/MyPortfolio/static/js/453.0352e4fa.chunk.js",
+    "static/media/skill-canva.png": "/MyPortfolio/static/media/skill-canva.9001c48f564be8639788.png",
+    "static/media/skill-excel.png": "/MyPortfolio/static/media/skill-excel.8fb0897ebbcf213f8cbc.png",
+    "static/media/my2.jpg": "/MyPortfolio/static/media/my2.d5e19c9558581b07cbaa.jpg",
+    "static/media/Swayam_Singh_Resume.pdf": "/MyPortfolio/static/media/Swayam_Singh_Resume.8dec0f29319cdbf4bb22.pdf",
+    "static/media/skill-word.png": "/MyPortfolio/static/media/skill-word.3dc5db8a61017e8bf59b.png",
+    "static/media/todo-1.jpg": "/MyPortfolio/static/media/todo-1.b5579bf8117353bde5f0.jpg",
+    "static/media/stba-1.jpg": "/MyPortfolio/static/media/stba-1.1fbf15b09a5f554042f4.jpg",
     "static/media/skill-more.png": "/MyPortfolio/static/media/skill-more.26a68f8f28ddcd88e959.png",
     "static/media/skill-react.png": "/MyPortfolio/static/media/skill-react.ac9979693620f0a96231.png",
+    "static/media/GSTIG-1.jpg": "/MyPortfolio/static/media/GSTIG-1.7a2118858e3d9bc3c0f3.jpg",
     "static/media/skill-php.png": "/MyPortfolio/static/media/skill-php.4990580e9b615aeebb1f.png",
+    "static/media/LMS-1.jpg": "/MyPortfolio/static/media/LMS-1.d6fd2fcadad9be1ccbdd.jpg",
+    "static/media/skill-powerpoint.png": "/MyPortfolio/static/media/skill-powerpoint.dbdeff4e53277cc1b9b1.png",
     "static/media/skill-sql-server.png": "/MyPortfolio/static/media/skill-sql-server.86cdb54cc5fc9c392ebd.png",
     "static/media/skill-css.png": "/MyPortfolio/static/media/skill-css.57ac229d6c624bed3295.png",
     "static/media/skill-github.png": "/MyPortfolio/static/media/skill-github.22cfdd1cba253783ce51.png",
+    "static/media/skill-python.png": "/MyPortfolio/static/media/skill-python.f7f12e1bf59e577656a2.png",
     "static/media/skill-html.png": "/MyPortfolio/static/media/skill-html.6e930594286d8afe4c79.png",
     "static/media/skill-bootstrap.png": "/MyPortfolio/static/media/skill-bootstrap.268c4375260420e8d982.png",
     "static/media/skill-js.png": "/MyPortfolio/static/media/skill-js.3dfb665e058d08c99f28.png",
+    "static/media/skill-laravel.png": "/MyPortfolio/static/media/skill-laravel.3ed1cea8413bf9dd1cbc.png",
     "index.html": "/MyPortfolio/index.html",
-    "main.11742ad8.css.map": "/MyPortfolio/static/css/main.11742ad8.css.map",
-    "main.f9d05c59.js.map": "/MyPortfolio/static/js/main.f9d05c59.js.map",
-    "453.13adc2c8.chunk.js.map": "/MyPortfolio/static/js/453.13adc2c8.chunk.js.map"
+    "main.40f8f653.css.map": "/MyPortfolio/static/css/main.40f8f653.css.map",
+    "main.ff0d5fad.js.map": "/MyPortfolio/static/js/main.ff0d5fad.js.map",
+    "453.0352e4fa.chunk.js.map": "/MyPortfolio/static/js/453.0352e4fa.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.11742ad8.css",
-    "static/js/main.f9d05c59.js"
+    "static/css/main.40f8f653.css",
+    "static/js/main.ff0d5fad.js"
   ]
 }
