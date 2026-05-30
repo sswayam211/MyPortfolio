@@ -99,7 +99,7 @@ const Home = () => {
                             </div>
                         </div>
                         <div className="box">
-                            <a href="about#skills">
+                            <a href="about">
                                 <div className="box-content">
                                     <img src={MORE} alt="MORE" />
                                     <h4 className='text-center mt-4 '>More</h4>

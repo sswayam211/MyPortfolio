@@ -18,7 +18,7 @@ const Project = () => {
                         <div className="project-img col-lg-5">
                             <img src={LMS} alt="project-1" className='img-fluid' />
                         </div>
-                        <div className="project-details col-lg-7">
+                        <div className="project-details col-lg-7 my-lg-0 my-3 mt-lg-0 mt-3">
                             <h3 className="heading">1. Library Management System</h3>
                             <p>
                                 Library Management System is a web application, which can we used to manage books in library.
@@ -41,7 +41,7 @@ const Project = () => {
                         <div className="project-img col-lg-5">
                             <img src={GSTIG} alt="project-1" className='img-fluid' />
                         </div>
-                        <div className="project-details col-lg-7">
+                        <div className="project-details col-lg-7 my-lg-0 my-3">
                             <h3 className="heading">2. GST Invoice Generator</h3>
                             <p>
                                 It is a web application, which can we used to generate invoice of the sales online.
@@ -63,7 +63,7 @@ const Project = () => {
                         <div className="project-img col-lg-5">
                             <img src={TODO} alt="project-1" className='img-fluid' />
                         </div>
-                        <div className="project-details col-lg-7">
+                        <div className="project-details col-lg-7 my-lg-0 my-3">
                             <h3 className="heading">3. Todo List</h3>
                             <p>
                                 Todos list is a web application, which can we used to save things that we need to do.
@@ -85,7 +85,7 @@ const Project = () => {
                         <div className="project-img col-lg-5">
                             <img src={STBA} alt="project-2" className='img-fluid' />
                         </div>
-                        <div className="project-details col-lg-7">
+                        <div className="project-details col-lg-7 my-lg-0 my-3">
 
                             <h3 className="heading">4. Student-Teacher Booking Appointment</h3>
                             <p>Student-Teacher Booking Appointment is a web application, It can be used by Students and Teachers.

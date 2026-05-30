@@ -93,7 +93,7 @@ const Contact = () => {
 
             <div className='contact-details row align-items-center'>
 
-                <div className="info col-md-6 px-5">
+                <div className="info col-md-6 px--sm-5">
                     <div className="social-links row flex-column">
                         <a href="https://wa.me/7905341874" target='\blank'>
                             <i className="fa-brands fa-whatsapp"></i> <span className="ms-4">What's App</span>
@@ -113,7 +113,7 @@ const Contact = () => {
                     </div>
                 </div>
 
-                <div className="form col-md-6 px-5">
+                <div className="form col-md-6 px-sm-5 py-sm-0 py-4">
                     <div className="box p-sm-2 border">
                         <div className='p-3'>
                             <h3 className='mx-sm-2'>Contact Form</h3>

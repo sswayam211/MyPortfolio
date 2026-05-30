@@ -40,6 +40,13 @@ p {
     font-weight: 500;
 }
 
+@media screen and (max-width:500px) {
+    p {
+        font-size: 16px;
+        font-weight: normal;
+    }
+}
+
 .heading {
     color: var(--golden-text);
     font-weight: 600;
