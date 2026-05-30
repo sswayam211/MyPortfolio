@@ -1,6 +1,6 @@
 import './App.css';
 import "./MyComponents/Styling/Style.css";
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import { HashRouter as Router, Routes, Route } from "react-router-dom";
 import Home from "./MyComponents/Pages/Home";
 import About from "./MyComponents/Pages/About";
 import Resume from "./MyComponents/Resume/Swayam_Singh_Resume.pdf";
