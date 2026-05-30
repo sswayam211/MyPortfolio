@@ -10,6 +10,7 @@ import SQL from '../Images/skill-sql-server.png';
 import LARAVEL from '../Images/skill-laravel.png';
 import BOOTSTRAP from '../Images/skill-bootstrap.png';
 import MORE from '../Images/skill-more.png';
+import { Link } from 'react-router-dom';
 
 const Home = () => {
     return (
@@ -99,12 +100,12 @@ const Home = () => {
                             </div>
                         </div>
                         <div className="box">
-                            <a href="about">
+                            <Link to="about">
                                 <div className="box-content">
                                     <img src={MORE} alt="MORE" />
                                     <h4 className='text-center mt-4 '>More</h4>
                                 </div>
-                            </a>
+                            </Link>
                         </div>
                     </div>
                 </section>
