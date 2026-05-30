@@ -57,7 +57,7 @@ const Banner = () => {
                     Hello! Welcome to my portfolio,
                 </h5>
 
-                <h1>
+                <h1 className='my-3'>
                     I’m <span className='name-intro'>{animatedName}</span>,
                 </h1>
 

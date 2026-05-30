@@ -28,7 +28,7 @@ const Header = () => {
     const location = useLocation();
     useEffect(() => {
         window.scrollTo(0, 0);
-        setIsMenuOpen(!isMenuOpen);
+        setIsMenuOpen(false);
     }, [location.pathname]);
 
 
@@ -36,7 +36,7 @@ const Header = () => {
         <>
             <nav className='sticky-top'>
                 <div className="nav-bar">
-                    <div className={`nav-toggler ${isMenuOpen ? 'close' : 'open'}`} onClick={toggleMenu}>
+                    <div className={`nav-toggler ${!isMenuOpen ? 'close' : 'open'}`} onClick={toggleMenu}>
                         <div className="nav-menu-btn">
                             <div className="lines"></div>
                             <div className="lines"></div>
@@ -44,7 +44,7 @@ const Header = () => {
                         </div>
                     </div>
                     <div className="nav-links">
-                        <ul className={`nav-menu ${isMenuOpen ? 'close' : 'open'}`}>
+                        <ul className={`nav-menu ${!isMenuOpen ? 'close' : 'open'}`}>
                             <NavLink className={({ isActive }) => isActive ? 'nav-link-a active' : 'nav-link-a'} to="/" end><li className='nav-link'>Home</li></NavLink>
                             <NavLink className={({ isActive }) => isActive ? 'nav-link-a active' : 'nav-link-a'} to="/about"><li className='nav-link'>About</li></NavLink>
                             <NavLink className={({ isActive }) => isActive ? 'nav-link-a active' : 'nav-link-a'} to="/project"><li className='nav-link'>Projects</li></NavLink>
