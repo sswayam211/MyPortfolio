@@ -2,7 +2,7 @@
   "name": "my_portfolio_2",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://sswayam211.github.io/MyPortfolio2",
+  "homepage": "https://sswayam211.github.io/MyPortfolio",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.9.1",
